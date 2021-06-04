@@ -1,0 +1,13 @@
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.exe
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.deps.json
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.runtimeconfig.json
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.runtimeconfig.dev.json
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.dll
+C:\Users\sujay\source\repos\Queens\Queens\bin\Debug\netcoreapp3.1\Queens.pdb
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.AssemblyInfoInputs.cache
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.AssemblyInfo.cs
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.csproj.CoreCompileInputs.cache
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.dll
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.pdb
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.genruntimeconfig.cache
+C:\Users\sujay\source\repos\Queens\Queens\obj\Debug\netcoreapp3.1\Queens.csprojAssemblyReference.cache
