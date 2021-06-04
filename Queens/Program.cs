@@ -8,6 +8,10 @@ namespace Queens
         static void Main(string[] args)
         {
             NQueens(8);
+
+            //test1
+            //test2
+
         }
     }
 }
